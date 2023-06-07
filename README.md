@@ -1,6 +1,7 @@
 # HEART-FAILURE-PREDICTION
 PREDICTING THE ONSET OF HEART FAILURE USING ML ALGORITHM AND DEPLOY AN APP
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesenior.com.au%2Fstory%2F7638058%2Fhow-to-keep-your-heart-healthy-over-60%2F&psig=AOvVaw3HjBKwlHemyWq6MQ93yaLn&ust=1686230157577000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjR9_-esf8CFQAAAAAdAAAAABAa)
+<div>
+
 ## ABSTRACT
 Heart failure is a serious medical condition that
 affects millions of people worldwide and leads to
