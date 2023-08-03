@@ -1,5 +1,5 @@
 # HEART-FAILURE-PREDICTION
-PREDICTING THE ONSET OF HEART FAILURE USING ML ALGORITHM AND DEPLOY AN APP
+Predicting the onset of Herat Failure using ML algorithm and Deploying it in an app.
 <div>
 
 ## ABSTRACT
