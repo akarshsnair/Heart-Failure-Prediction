@@ -30,3 +30,7 @@ of machine learning algorithms in predicting heart
 failure. It is also important to consider the ethical
 and privacy implications of using machine learning
 algorithms in clinical practice.
+
+## App Demo
+![hr](https://github.com/akarshsnair/Heart-Failure-Prediction/assets/92806180/76a77c9b-c699-45d4-a0a2-c5b445608cee)
+
