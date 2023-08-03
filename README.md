@@ -33,4 +33,5 @@ algorithms in clinical practice.
 
 ## App Demo
 ![hr](https://github.com/akarshsnair/Heart-Failure-Prediction/assets/92806180/76a77c9b-c699-45d4-a0a2-c5b445608cee)
+![cccc](https://github.com/akarshsnair/Heart-Failure-Prediction/assets/92806180/ae897941-8789-4564-aa46-bbdf3e3aa3da)
 
